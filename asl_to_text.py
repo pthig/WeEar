@@ -21,8 +21,7 @@ class_names = open("labels.txt", "r").readlines()
 
 # CAMERA can be 0 or 1 based on default camera of your computer
 camera = cv2.VideoCapture(0)
-start_time = time.time()
-duration = 5 # Duration to display the text
+
 while True:
     # Grab the webcamera's image.
     ret, image = camera.read()
@@ -53,7 +52,13 @@ while True:
 
     # Print the class name and confidence score
     print("The sign shown is:", class_name[2:], end="")
-    break
+    # Listen to the keyboard for presses.
+    keyboard_input = cv2.waitKey(1)
+
+    # 27 is the ASCII for the esc key on your keyboard.
+    if keyboard_input == 27:
+        break
+
     
     
     

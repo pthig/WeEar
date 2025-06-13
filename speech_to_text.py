@@ -7,7 +7,7 @@ def start_record():
   print("Recording...;)")
   print(sd.query_devices())
   fs = 44100  # Sample rate
-  duration = 3  # seconds
+  duration = 15  # seconds
   recording = sd.rec(duration * fs, samplerate=fs, channels=1, dtype='int16')
   print("Waiting...:)")
   sd.wait()  # Wait until recording is finished
