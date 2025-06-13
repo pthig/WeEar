@@ -21,3 +21,6 @@ The app is built using Python, Streamlit for the web interface, and uses AI mode
 - American Sign Language model built using [Teachable Machines] (https://teachablemachine.withgoogle.com/train/image)
 - Inspired by code examples from the [Streamlit documentation] (https://docs.streamlit.io/get-started/fundamentals/additional-features)
 - Brainstorming and surfing for information [ChatGPT] (https://chatgpt.com/share/684bfa6f-d1c4-8008-b6cc-7ba8f6ec9382 )
+
+
+Slide: https://docs.google.com/presentation/d/1ZgSFrZf0aLKYLdsWYOHhnV7RHA4vvi76MVJmCWShS98/edit?slide=id.p#slide=id.p
