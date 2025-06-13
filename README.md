@@ -16,8 +16,8 @@ Step 3: VS Code Integration Steps
 The app is built using Python, Streamlit for the web interface, and uses AI models for speech and gesture recognition.
 
 ##  AI Tools Used
-Inspired by code examples from the [Python Sounddevice documentation] (https://python-sounddevice.readthedocs.io/en/0.3.2/#:~:text=The%20attributes%20device%20%2C%20channels%20%2C%20dtype,second%20value%20specifies%20the%20output.)
-Speech recognition built using [OpenAI Whisper API] (https://github.com/openai/whisper?tab=readme-ov-file)
-American Sign Language model built using [Teachable Machines] (https://teachablemachine.withgoogle.com/train/image)
-Inspired by code examples from the [Streamlit documentation] (https://docs.streamlit.io/get-started/fundamentals/additional-features)
-Brainstorming and surfing for information [ChatGPT] (https://chatgpt.com/share/684bfa6f-d1c4-8008-b6cc-7ba8f6ec9382 )
+- Inspired by code examples from the [Python Sounddevice documentation] (https://python-sounddevice.readthedocs.io/en/0.3.2/#:~:text=The%20attributes%20device%20%2C%20channels%20%2C%20dtype,second%20value%20specifies%20the%20output.)
+- Speech recognition built using [OpenAI Whisper API] (https://github.com/openai/whisper?tab=readme-ov-file)
+- American Sign Language model built using [Teachable Machines] (https://teachablemachine.withgoogle.com/train/image)
+- Inspired by code examples from the [Streamlit documentation] (https://docs.streamlit.io/get-started/fundamentals/additional-features)
+- Brainstorming and surfing for information [ChatGPT] (https://chatgpt.com/share/684bfa6f-d1c4-8008-b6cc-7ba8f6ec9382 )
